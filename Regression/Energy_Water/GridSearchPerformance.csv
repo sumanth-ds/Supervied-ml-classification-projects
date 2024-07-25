@@ -1,0 +1,19 @@
+Parameters,MeanTestScore
+"{'criterion': None, 'max_depth': 6, 'n_estimators': 100}",
+"{'criterion': None, 'max_depth': 6, 'n_estimators': 150}",
+"{'criterion': None, 'max_depth': 6, 'n_estimators': 200}",
+"{'criterion': None, 'max_depth': 4, 'n_estimators': 100}",
+"{'criterion': None, 'max_depth': 4, 'n_estimators': 150}",
+"{'criterion': None, 'max_depth': 4, 'n_estimators': 200}",
+"{'criterion': None, 'max_depth': None, 'n_estimators': 100}",
+"{'criterion': None, 'max_depth': None, 'n_estimators': 150}",
+"{'criterion': None, 'max_depth': None, 'n_estimators': 200}",
+"{'criterion': 'squared_error', 'max_depth': 6, 'n_estimators': 100}",0.8168197491310962
+"{'criterion': 'squared_error', 'max_depth': 6, 'n_estimators': 150}",0.8146830974093351
+"{'criterion': 'squared_error', 'max_depth': 6, 'n_estimators': 200}",0.8118223319311294
+"{'criterion': 'squared_error', 'max_depth': 4, 'n_estimators': 100}",0.8204564653993593
+"{'criterion': 'squared_error', 'max_depth': 4, 'n_estimators': 150}",0.820324865913641
+"{'criterion': 'squared_error', 'max_depth': 4, 'n_estimators': 200}",0.8197170375452286
+"{'criterion': 'squared_error', 'max_depth': None, 'n_estimators': 100}",0.6592785559213055
+"{'criterion': 'squared_error', 'max_depth': None, 'n_estimators': 150}",0.6608453528891932
+"{'criterion': 'squared_error', 'max_depth': None, 'n_estimators': 200}",0.6594441934848596
